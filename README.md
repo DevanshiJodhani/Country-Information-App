@@ -1,5 +1,5 @@
 # Country-Information-App
-In this video, I taught how to create a Country Information App using HTML, CSS, and JavaScript with API integration.
+I have created a Country Information App using HTML, CSS, and JavaScript with API integration.
 
 ## Api Key
 - How to get Free API key which is i used to make this App
